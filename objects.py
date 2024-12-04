@@ -4,4 +4,4 @@ class User():
         self.email = email  
         self.password = password
 
-user1 = User('Gogo' , 'amin@gmail.com' , 'aeaze55')
+user1 = User('Gogo' , 'amin@gmail.com' , 'zze148&&&zz')
